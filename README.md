@@ -1,10 +1,10 @@
-# ASCII Art Generator
+# Gerador de arte ASCII
 
 Script de estudo para transformar imagens em arte ASCII. O script lê um arquivo
 de imagem e converte cada pixel em seu caractere ASCII correspondente, o caractere
 escolhido é baseado no brilho de cada pixel da imagem.
 
-## Requirements
+## Dependencias
 
 - Python 3.x
 - Pillow lib (processamento de imagem)
